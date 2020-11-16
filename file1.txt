@@ -1,4 +1,5 @@
 Stash adding on first line
+part2
 I am file1
 Added by mybranch2
 This line was added by mybranch2
@@ -7,3 +8,5 @@ I am adding this line from cbranch1
 This is the same from cbranch1
 
 example for stash
+
+stash part2
