@@ -1,3 +1,4 @@
 I am file1
 Added by mybranch2
 
+This line was added by mybranch2
