@@ -1,0 +1,2 @@
+I am file2
+added in branch mybranch2
