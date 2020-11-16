@@ -1,5 +1,6 @@
 I am file1
 Added by mybranch2
+This line was added by mybranch2
 
 I am adding this line from cbranch1
 This is the same from cbranch1
