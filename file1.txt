@@ -1,4 +1,3 @@
-Stash adding on first line
 part2
 I am file1
 Added by mybranch2
